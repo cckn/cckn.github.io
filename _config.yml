@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "CCKN"
-  avatar           : "/assets/images/global/banban.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://cckn.github.io/assets/images/global/banban.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "😜"
   location         : "Korea"
   email            : "cckn.dev@gmail.com"
