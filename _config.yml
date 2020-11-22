@@ -28,11 +28,11 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 200
+words_per_minute         : 100
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname            : "cckn-github-io"# https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "cckn-github-io" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -94,10 +94,10 @@ analytics:
 # Site Author
 author:
   name             : "CCKN"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/global/banban.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "😜"
   location         : "Korea"
-  email            :
+  email            : "cckn.dev@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
